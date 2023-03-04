@@ -9,7 +9,7 @@ Profissional em constante atualização na busca por conhecimento Ágil e comuni
 
 Atualmente trabalhando na Secretaria da Fazenda do Recife como Suporte Técnico em Informática N.2, contratado pela a empresa G4F Soluções Corporativas. Principais atividades é de suporte técnico para usuária final, manutenção e reparo de equipamentos (Hardware), diagnosticar e resolver problemas de usuário, gerenciamento de Servidores de Impressão, instalação e configuração e de softwares, reparo e manutenção de Sistemas Operacionais (Windows e Linux).
 
-:mortar_board: Cursando Análise e Desenvolvimento de Sistemas.
+:mortar_board: Graduado em Análise e Desenvolvimento de Sistemas.
 
 - [x] Aux. Informática
 - [x] Suporte TI | Service Desk N. 1
