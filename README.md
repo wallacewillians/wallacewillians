@@ -14,7 +14,7 @@ Atualmente trabalhando na Secretaria da Fazenda do Recife como Suporte Técnico 
 - [x] Aux. Informática
 - [x] Suporte TI | Service Desk N. 1
 - [x] Suporte TI | Service Desk N. 2
-- [ ] Supervisor de TI | Service Desk N. 2
+- [x] Supervisor de TI | Service Desk N. 2
 - [ ] Desenvolvedor | Dev :pencil2:
 
 ### Estou aprendendo
