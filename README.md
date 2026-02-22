@@ -17,16 +17,10 @@ Atualmente trabalhando na Secretaria da Fazenda do Recife como Suporte Técnico 
 - [x] Suporte TI | Service Desk N. 1
 - [x] Suporte TI | Service Desk N. 2
 - [x] Supervisor de TI | Service Desk N. 2
+- [x] Analisa de Suporte N3
 - [ ] Desenvolvedor | Dev :pencil2:
 
 ### Estou aprendendo
 
 <img src="https://img.icons8.com/color/344/html-5--v1.png" width="40" height="40"/> <img src="https://img.icons8.com/color/344/css3.png" width="40" height="40"/> <img src="https://img.icons8.com/fluency/344/javascript.png" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/344/linux--v2.png" width="40" height="40"/> <img src="https://img.icons8.com/fluency/344/fedora.png" width="40" height="40"/> <img src="https://img.icons8.com/fluency/344/mac-os.png" width="40" height="40"/> <img src="https://img.icons8.com/color/344/git.png" width="40" height="40"/>
-
-
-<div>
-<a href="https://github.com/wallacewillians">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacewillians&layout=compact&langs_count=7&theme=dracula"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=wallacewillians&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
